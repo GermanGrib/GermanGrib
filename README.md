@@ -14,7 +14,7 @@
 
 
 #### Also you can check what I use
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanGrib&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanGrib&hide_progress=true)
 
 
 <!--
