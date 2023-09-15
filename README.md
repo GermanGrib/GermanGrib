@@ -9,7 +9,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+79141517989)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-gribanov-615331263/)
 
+*Languages
++ English (B1+)
++ Russian (Native)
 
+*** Below, I store my educational and pet projects. I'd be happy to chat - feel free to message me ***
 <!--
 **GermanGrib/GermanGrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
