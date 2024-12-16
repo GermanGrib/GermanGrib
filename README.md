@@ -28,6 +28,8 @@
 + English (B2)
 + Russian (Native)
 
+### Implemented Work Projects from Scratch
+- [Море Моторов](https://more-motorov-spb.ru)
 
 *********
 *** I'd be happy to chat - feel free to message me ***
