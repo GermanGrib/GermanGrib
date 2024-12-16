@@ -29,7 +29,7 @@
 + Russian (Native)
 
 ### Implemented Work Projects from Scratch
-- [Море Моторов](https://more-motorov-spb.ru)
+- <a href="https://more-motorov-spb.ru" target="_blank">Море моторов</a>
 
 *********
 *** I'd be happy to chat - feel free to message me ***
