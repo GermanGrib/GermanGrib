@@ -31,6 +31,9 @@
 ### Implemented Work Projects from Scratch
 - [Море моторов](https://more-motorov-spb.ru)
 
+### Work in progress:
+- [Nordkit](https://dev.nordkit.ru/)
+
 *********
 *** I'd be happy to chat - feel free to message me ***
 <!--
