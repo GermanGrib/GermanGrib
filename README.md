@@ -27,6 +27,7 @@
 
 + English (B2)
 + Russian (Native)
++ Portuguese (A1)
 
 ### Implemented Work Projects from Scratch
 - [Море моторов](https://more-motorov-spb.ru)
