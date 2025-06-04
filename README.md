@@ -30,10 +30,8 @@
 + Portuguese (A1)
 
 ### Implemented Work Projects from Scratch
-- [Море моторов](https://more-motorov-spb.ru)
-
-### Work in progress:
-- [Nordkit](https://dev.nordkit.ru/)
+- [Nordkit](https://nordkit.ru/) (Next, TS, Tailwind, Shadcn, Redis, Kubernetes, Wordpress(CMS))
+- [Море моторов](https://more-motorov-spb.ru) (Next, TS, Talwind, Shadcn, Wordpress(CMS))
 
 *********
 *** I'd be happy to chat - feel free to message me ***
