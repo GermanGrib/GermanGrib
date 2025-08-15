@@ -25,9 +25,9 @@
 
 ### Languages
 
-+ English (B2)
++ English (C1)
 + Russian (Native)
-+ Portuguese (A1)
++ Portuguese (A2)
 
 ### Implemented Work Projects from Scratch
 - [Nordkit](https://nordkit.ru/) (Next, TS, Tailwind, Shadcn, Redis, Kubernetes, Wordpress(CMS))
