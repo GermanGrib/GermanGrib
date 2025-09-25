@@ -27,8 +27,8 @@
 + Portuguese (A2)
 
 ### Implemented Work Projects from Scratch
-- [Nordkit](https://nordkit.ru/) (Next, TS, Tailwind, Shadcn, Redis, Kubernetes, Wordpress(CMS))
-- [Mot-Motor](https://dev2.mot-motor.ru/) (Next, TS, Tailwind, Shadcn, Redis, Kubernetes, Wordpress(CMS))
+- [Nordkit](https://nordkit.ru/) (Next, TS, Tailwind, Shadcn, Redis, K8s, Wordpress(CMS))
+- [Mot-Motor](https://mot-motor.ru/) (Next, TS, Tailwind, Shadcn, Redis, K8s, Wordpress(CMS))
 - [Море моторов](https://more-motorov-spb.ru) (Next, TS, Talwind, Shadcn, Wordpress(CMS))
 
 *********
